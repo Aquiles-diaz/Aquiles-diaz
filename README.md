@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aquiles Diaz and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Aquiles Diaz and I'm a Software Developer , from Argentina , Alvarez Sta fe.</h2>
 
 ###
 <div align="left">
